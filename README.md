@@ -2,4 +2,4 @@
 
 This repo contains multible notebooks explaining multible concepts regarding Machine learning and deep learning models. 
 
-Some models are trained on GPUs and some are using AWS sageMaker services.
+Some models are trained on local GPUs and some are using AWS sageMaker services.
